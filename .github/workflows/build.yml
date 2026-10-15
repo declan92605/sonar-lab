@@ -26,6 +26,6 @@ jobs:
           SONAR_HOST_URL: https://sonarcloud.io
         with:
           args: >
-            -Dsonar.projectKey=YOUR_ACTUAL_PROJECT_KEY
-            -Dsonar.organization=YOUR_ACTUAL_ORGANIZATION_KEY
+            -Dsonar.projectKey=declan92605_sonar-lab
+            -Dsonar.organization=declan92605
             -Dsonar.sources=.
