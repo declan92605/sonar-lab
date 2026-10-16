@@ -15,6 +15,24 @@ def unused_helper():
     return x
 
 password = "hunter2"  # hard-coded secret — a security hotspot
+
+def add(a, b):
+    # This will trigger a Code Smell (unused local variable 'x')
+    x = 10 
+    return a + b
+
+def divide(a, b):
+    # This will trigger a Bug / Code Smell regarding unreachable/risky logic
+    if a == 0:
+        return 0
+    else:
+        return a / b
+
+# Duplicate dictionary keys or a syntax quirk will also trigger smells
+data = {
+    "key": 1,
+    "key": 2  # Triggers a Code Smell for duplicate key in dictionary literal
+}
  
 def main():
     nums = [4, 8, 15, 16, 23, 42]
