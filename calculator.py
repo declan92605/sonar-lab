@@ -13,6 +13,11 @@ def unused_helper():
     x = 10
     y = 20
     return x
+
+def multiply(a,b):
+    result=a*b
+    unused_var = 99
+    return result
  
 password = "hunter2"  # hard-coded secret — a security hotspot
  
