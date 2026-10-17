@@ -22,3 +22,1013 @@ def main():
  
 if __name__ == "__main__":
     main()
+####test
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+def divide(a, b):
+    return a / b
+ 
+def calculate_average(numbers):
+    total = 0
+    for i in range(0, len(numbers)):
+        total = total + numbers[i]
+    average = total / len(numbers)
+    return average
+ 
+def unused_helper():
+    x = 10
+    y = 20
+    return x
+ 
+password = "hunter2"  # hard-coded secret — a security hotspot
+ 
+def main():
+    nums = [4, 8, 15, 16, 23, 42]
+    print("Average:", calculate_average(nums))
+    print("Division:", divide(10, 0))
+ 
+if __name__ == "__main__":
+    main()
+
